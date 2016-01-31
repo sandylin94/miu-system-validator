@@ -1,0 +1,1 @@
+Dada una cadena de texto, verificar que sea una cadena válida del sistema MIU descrito en el libro “Gödel, Escher, Bach: an Esternal Golden Braid”, de Douglas Hofstadter
